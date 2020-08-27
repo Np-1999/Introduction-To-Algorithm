@@ -1,5 +1,4 @@
 
-
 public class VolatileStock_bruteForce {
     public static int bruteforce(int arr[]) {
         int max = Integer.MIN_VALUE;
