@@ -23,6 +23,6 @@ public class luckyNumbers
         return isLucky(n);
     }
     public static void main(String[] args) {
-        isLucky(19);
+        System.out.println(isLucky(19));
     }
 }
